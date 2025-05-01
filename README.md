@@ -62,7 +62,7 @@ The dataset contains the following columns:
 
 1. Clone the repository:
 ```
-git clone https://github.com/khizareen/car-price-predictor.git
+git clone https://github.com/khizareen/prj_car_price_predictions.git
 cd car-price-predictor
 ```
 
@@ -92,5 +92,5 @@ The app is deployed on Streamlit Cloud.
 
 ## Author
 
-Your Name  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+[Khizareen Taj)
+GitHub: (https://github.com/khizareen))
